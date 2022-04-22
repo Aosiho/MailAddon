@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mail_addon:cardboard"
+    },
+    "1": {
+      "item": "mail_addon:cardboard"
+    },
+    "2": {
+      "item": "mail_addon:cardboard"
+    },
+    "3": {
+      "item": "mail_addon:cardboard"
+    },
+    "5": {
+      "item": "mail_addon:cardboard"
+    },
+    "6": {
+      "item": "mail_addon:cardboard"
+    },
+    "7": {
+      "item": "mail_addon:cardboard"
+    },
+    "8": {
+      "item": "mail_addon:cardboard"
+    }
+  },
+  "result": {
+    "item": "mail_addon:package",
+    "count": 1
+  }
+}

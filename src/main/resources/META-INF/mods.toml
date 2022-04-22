@@ -6,15 +6,15 @@ license="All Rights Reserved"
 modId="mail_addon"
 version="1.0.2"
 displayName="Mail Addon"
-credits=""
-displayURL="https://github.com/Aosiho/MailAddon"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
 logoFile="logo.png"
 authors="Aosiho"
 
 [[dependencies.mail_addon]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16,]"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
 
