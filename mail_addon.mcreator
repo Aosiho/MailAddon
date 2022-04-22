@@ -99,6 +99,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "envelope_recipe"
+    },
+    {
+      "name": "CardboardPress",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cardboard_press"
     }
   ],
   "variable_elements": [],
